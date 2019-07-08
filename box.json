@@ -1,0 +1,15 @@
+{
+    "name":"CFWheels SAML",
+    "version":"1.0.0",
+    "author":"Tom Sucaet",
+    "location":"tsucaet/cfwheels-saml#v1.0.0",
+    "directory":"/plugins/",
+    "createPackageDirectory":true,
+    "packageDirectory":"saml",
+    "slug":"cfwheels-saml",
+    "type":"cfwheels-plugins",
+    "homepage":"https://github.com/tsucaet/cfwheels-saml",
+    "shortDescription":"CFWheels plugin for SAML Single Sign-On",
+    "keywords":"SAML",
+    "private":false
+}
