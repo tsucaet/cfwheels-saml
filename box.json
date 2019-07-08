@@ -1,15 +1,37 @@
 {
-    "name":"CFWheels SAML",
-    "version":"1.0.0",
     "author":"Tom Sucaet",
-    "location":"tsucaet/cfwheels-saml#v1.0.0",
-    "directory":"/plugins/",
+    "bugs":"",
+    "changelog":"",
+    "contributors":[],
     "createPackageDirectory":true,
+    "dependencies":{},
+    "description":"",
+    "devDependencies":{},
+    "directory":"/plugins/",
+    "documentation":"",
+    "homepage":"https://github.com/tsucaet/cfwheels-saml",
+    "ignore":[],
+    "installPaths":{},
+    "instructions":"",
+    "keywords":"SAML",
+    "license":[
+        {
+            "type":"",
+            "URL":""
+        }
+    ],
+    "location":"tsucaet/cfwheels-saml#v1.0.0",
+    "name":"CFWheels SAML",
     "packageDirectory":"saml",
+    "private":false,
+    "projectURL":"",
+    "repository":{
+        "type":"",
+        "URL":""
+    },
+    "scripts":{},
+    "shortDescription":"CFWheels plugin for SAML Single Sign-On",
     "slug":"cfwheels-saml",
     "type":"cfwheels-plugins",
-    "homepage":"https://github.com/tsucaet/cfwheels-saml",
-    "shortDescription":"CFWheels plugin for SAML Single Sign-On",
-    "keywords":"SAML",
-    "private":false
+    "version":"1.0.0"
 }
